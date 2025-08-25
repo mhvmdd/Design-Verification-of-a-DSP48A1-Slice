@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lenovo/Desktop/Digital/Kareem-Waseem-Diplome/Design/Projects/Project1-DSP48A1/Try2/qestasim/DSP48A1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DSP48A1
+INFO: [VRFC 10-311] analyzing module FF_SYNC
+INFO: [VRFC 10-311] analyzing module FF_ASYNC
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Lenovo/Desktop/Digital/Kareem-Waseem-Diplome/Design/Projects/Project1-DSP48A1/Try2/vivado/DSP48A1/DSP48A1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl
