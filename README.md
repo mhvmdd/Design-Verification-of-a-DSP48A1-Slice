@@ -38,7 +38,7 @@ A key focus of this work was the development of a robust, self-checking testbenc
 To replicate this project's verification flow:
 
 1. **Clone the repository:**
-   `git clone https://github.com/your-username/your-repo.git`
+   `git clone https://github.com/mhvmdd/Design-Verification-of-a-DSP48A1-Slice`
 
 2. **Simulation with QuestaSim:**
 
